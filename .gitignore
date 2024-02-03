@@ -15,3 +15,5 @@ node_modules
 
 .vscode
 gas-report.txt
+coverage.json
+coverage
